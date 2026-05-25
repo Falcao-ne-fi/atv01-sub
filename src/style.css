@@ -1,0 +1,37 @@
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding-top: 30vh;
+}
+section{
+    border: 3px solid #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 350px;
+    width: 230px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+p{
+    text-align: center;
+    
+}
+
+a{
+    background-color: aquamarine;
+    border-radius: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: "Bebas Neue", sans-serif;
+    padding: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: 1px;
+}
